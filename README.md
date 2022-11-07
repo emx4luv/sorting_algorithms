@@ -1,4 +1,4 @@
 This is the sorting_algorithms tasks done by the teams
 
--Emmanuel Enahoro
+- Emmanuel Enahoro
 - Reuben Enahoro
